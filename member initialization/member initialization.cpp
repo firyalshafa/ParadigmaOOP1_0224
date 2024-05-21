@@ -8,6 +8,7 @@ using namespace std;
 class mahasiswa {
 private:
     const int id;
+    string nama;
 
 };
 
